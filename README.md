@@ -1,142 +1,158 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=6&section=header"/>
 
 <br/>
 
-<sup>ISSUE NO. 01 &nbsp;·&nbsp; FULL-STACK &amp; AI EDITION &nbsp;·&nbsp; @ARHAM2005</sup>
-
-<br/><br/>
-
-# MUHAMMAD<br/>ARHAM MALIK
-
-<br/>
-
-<sup>F U L L - S T A C K &nbsp; D E V E L O P E R &nbsp; &nbsp; · &nbsp; &nbsp; A I / M L &nbsp; E N G I N E E R &nbsp; &nbsp; · &nbsp; &nbsp; C R E A T I V E &nbsp; T E C H N O L O G I S T</sup>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=1500&color=F59E0B&center=true&vCenter=true&width=600&lines=%22Building+systems+that+think.%22;%22Designing+interfaces+that+feel.%22;%22Engineering+products+that+last.%22)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=Arham2005&label=READERS&color=f59e0b&style=flat-square)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=200&section=header&text=MUHAMMAD%20ARHAM%20MALIK&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20%20%C2%B7%20%20Creative%20Technologist&descAlignY=75&descSize=15&descColor=ffffffcc"/>
 
 </div>
 
+<div align="center">
+
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&pause=1500&color=F472B6&center=true&vCenter=true&width=650&lines=%E2%80%9CBuilding+systems+that+think.%E2%80%9D;%E2%80%9CDesigning+interfaces+that+feel.%E2%80%9D;%E2%80%9CEngineering+products+that+last.%E2%80%9D;%E2%80%9CShipping+ideas+that+matter.%E2%80%9D)](https://git.io/typing-svg)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=Arham2005&label=✦%20Readers%20✦&color=f472b6&style=flat-square)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Arham2005?label=✦%20Followers%20✦&color=818cf8&style=flat-square)
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3"/>
 
 ---
 
-## ◈ &nbsp; ABOUT THE AUTHOR
+<br/>
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+## 🌟 &nbsp; ABOUT THE AUTHOR
 
-**Muhammad Arham Malik** is a full-stack developer and AI/ML engineer with a passion for building products that sit at the intersection of intelligent systems and beautiful design.
+<img align="right" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 12px"/>
 
-He works across the entire stack — from crafting pixel-perfect React interfaces to training machine learning models from scratch — with a philosophy that **great software is both functional and felt.**
+**Muhammad Arham Malik** is a full-stack developer and AI/ML engineer who lives at the intersection of **intelligent systems** and **beautiful design**.
 
-📍 Open to collaborations &nbsp;·&nbsp; 🧠 Lifelong learner &nbsp;·&nbsp; 🚀 Always shipping
+He builds across the entire stack — from pixel-perfect React/Next.js interfaces to training machine learning models from scratch — with one guiding philosophy:
 
-> *"Don't just build features — engineer experiences that outlast the sprint."*
+> *"Great software isn't just functional — it's felt."*
+
+<br/>
+
+🔭 &nbsp; Currently exploring **AI Agents & Advanced ML Architectures**
+🎨 &nbsp; Obsessed with **clean code and cleaner UIs**
+🤝 &nbsp; Open to **open-source & impactful collaborations**
+⚡ &nbsp; Fun fact: My best ideas come at **2am with cold coffee**
 
 <br clear="right"/>
 
 ---
 
-## ◈ &nbsp; THE STACK
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**FRONTEND**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**BACKEND**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**AI & MACHINE LEARNING**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**CURRENTLY EXPLORING**
-
-```
-→ Advanced ML Architectures
-→ AI Agent Pipelines
-→ System Design at Scale
-→ Edge AI & Deployment
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ &nbsp; BY THE NUMBERS
+## 🎨 &nbsp; THE STACK
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arham2005&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham2005&layout=compact&langs_count=8&theme=solarized-light&hide_border=true"/>
+### 〔 🌐 Frontend 〕
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arham2005&theme=solarized-light&hide_border=true)](https://git.io/streak-stats)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 〔 ⚙️ Backend & Databases 〕
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 〔 🤖 AI & Machine Learning 〕
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 
 </div>
 
 ---
 
-## ◈ &nbsp; RECOGNITION
+<br/>
+
+## 📊 &nbsp; BY THE NUMBERS
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arham2005&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Arham2005&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham2005&layout=compact&langs_count=8&theme=rose_pine&hide_border=true&border_radius=12"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arham2005&theme=rose-pine&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## ◈ &nbsp; CORRESPONDENCE
+<br/>
+
+## 🏅 &nbsp; ACHIEVEMENTS
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arham2005&theme=rose_pine&no-frame=true&no-bg=true&margin-w=6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<br/>
+
+## 🐍 &nbsp; CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+---
+
+<br/>
+
+## 📬 &nbsp; LET'S CONNECT
 
 <div align="center">
 
 <br/>
 
-| Channel | Handle |
-|:---:|:---:|
-| 🗂️ Portfolio | [github.com/Arham2005/Portfolio](https://github.com/Arham2005/Portfolio) |
-| 📧 Email | [arhammallick10@gmail.com](mailto:arhammallick10@gmail.com) |
-| 🐙 GitHub | [@Arham2005](https://github.com/Arham2005) |
+[![Portfolio](https://img.shields.io/badge/🗂%20Portfolio-Visit%20Now-F472B6?style=for-the-badge&labelColor=1e1b4b)](https://github.com/Arham2005/Portfolio)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧%20Email-Get%20In%20Touch-818cf8?style=for-the-badge&labelColor=1e1b4b)](mailto:arhammallick10@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-@Arham2005-34d399?style=for-the-badge&labelColor=1e1b4b)](https://github.com/Arham2005)
+
+<br/><br/>
+
+> *"The best time to start was yesterday. The second best time is right now."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3"/>
 
 <br/>
 
-<sup>© MUHAMMAD ARHAM MALIK &nbsp;·&nbsp; ALL COMMITS RESERVED &nbsp;·&nbsp; BUILT WITH ☕ &amp; CURIOSITY</sup>
+<sup>✦ &nbsp; CRAFTED WITH ☕ COFFEE &amp; CURIOSITY &nbsp; · &nbsp; © MUHAMMAD ARHAM MALIK &nbsp; · &nbsp; ALL COMMITS RESERVED &nbsp; ✦</sup>
 
 <br/>
 
