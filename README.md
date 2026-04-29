@@ -6,7 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=200&section=header&text=MUHAMMAD%20ARHAM%20MALIK&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20%20%C2%B7%20%20Creative%20Technologist&descAlignY=75&descSize=15&descColor=ffffffcc"/>
 
-
 </div>
 
 <div align="center">
