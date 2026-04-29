@@ -4,7 +4,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,4&height=200&section=header&text=MUHAMMAD%20ARHAM%20MALIK&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20%20%C2%B7%20%20Creative%20Technologist&descAlignY=75&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MUHAMMAD%20ARHAM%20MALIK&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%2FML%20Engineer%20%20%C2%B7%20%20Creative%20Technologist&descAlignY=75&descSize=15"/>
 
 </div>
 
